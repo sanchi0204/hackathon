@@ -34,7 +34,7 @@ cleardevice();
  setcolor(WHITE);
  settextstyle(3,HORIZ_DIR,2);
  outtextxy(10,120,"1. SIGN UP");
- outtextxy(10,170,"2. SIGN IN");
+ outtextxy(10,170,"2. SIGN IN");//hii
  outtextxy(10,215,"Choose : ");
  gotoxy(19,15);
  cin>>c;
